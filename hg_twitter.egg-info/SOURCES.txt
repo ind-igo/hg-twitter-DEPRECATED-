@@ -1,0 +1,7 @@
+README.rst
+setup.py
+hg_twitter/__init__.py
+hg_twitter.egg-info/PKG-INFO
+hg_twitter.egg-info/SOURCES.txt
+hg_twitter.egg-info/dependency_links.txt
+hg_twitter.egg-info/top_level.txt
